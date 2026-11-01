@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-server-side-validation",
+  "version": "1.0.0",
+  "description": "Assignment 4 - Node.js server-side validation application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
